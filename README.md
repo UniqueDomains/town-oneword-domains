@@ -1,22 +1,22 @@
-# Available .TOWN One-Word Domains (5,622,080)
+# Available .TOWN One-Word Domains (8,904)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C904%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C080%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C903%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C904%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .town one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,904-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,080 domains** on the canonical page below.
+> **Important:** this repository is a **public 8,903-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,904 domains** on the canonical page below.
 
-**Public extract:** 8,904 rows · **Live catalog:** 5,622,080 domains
+**Public extract:** 8,903 rows · **Live catalog:** 8,904 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/town`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TOWN one-word domain 
 
 ### Files
 
-- `town.csv` — public CSV extract (8,904 rows)
-- `town.json` — public JSON extract (8,904 rows)
+- `town.csv` — public CSV extract (8,903 rows)
+- `town.json` — public JSON extract (8,903 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,22 +64,22 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| agile.town    | available | $9.99     | $48.99        | 92             | 42     | 5      | name.com          |
+| agile.town    | available | $9.99     | $48.99        | 92             | 41     | 5      | name.com          |
 | clean.town    | resell    | —         | —             | 130            | 99     | 5      | Sav.com, LLC      |
-| one.town      | premium   | $123.75   | $123.75       | 132            | 52     | 3      | name.com          |
+| one.town      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com          |
 | quick.town    | available | $9.99     | $48.99        | 72             | 41     | 5      | name.com          |
 | white.town    | resell    | —         | —             | 102            | 98     | 5      | Spaceship, Inc.   |
 | real.town     | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap         |
-| unity.town    | available | $9.99     | $48.99        | 70             | 41     | 5      | name.com          |
+| unity.town    | available | $9.99     | $48.99        | 70             | 40     | 5      | name.com          |
 | american.town | resell    | —         | —             | 98             | 98     | 8      | GoDaddy.com, LLC  |
-| gold.town     | premium   | $260      | $260          | 72             | 49     | 4      | namecheap         |
-| eternal.town  | available | $9.99     | $48.99        | 92             | 40     | 7      | name.com          |
-| box.town      | resell    | —         | —             | 68             | 78     | 3      | GoDaddy.com, LLC  |
 | security.town | premium   | $260      | $260          | 70             | 49     | 8      | namecheap         |
-| unify.town    | available | $9.99     | $48.99        | 72             | 38     | 5      | name.com          |
-| hello.town    | resell    | —         | —             | 130            | 71     | 5      | Sav.com, LLC - 25 |
+| eternal.town  | available | $9.99     | $48.99        | 92             | 39     | 7      | name.com          |
+| box.town      | resell    | —         | —             | 68             | 78     | 3      | GoDaddy.com, LLC  |
 | travel.town   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| forward.town  | available | $9.99     | $48.99        | 68             | 38     | 7      | name.com          |
+| forward.town  | available | $9.99     | $48.99        | 68             | 39     | 7      | name.com          |
+| hello.town    | resell    | —         | —             | 130            | 70     | 5      | Sav.com, LLC - 25 |
+| gold.town     | premium   | $260      | $260          | 72             | 48     | 4      | namecheap         |
+| unify.town    | available | $9.99     | $48.99        | 72             | 38     | 5      | name.com          |
 | easy.town     | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 49 |
 | car.town      | premium   | $260      | $260          | 94             | 46     | 3      | namecheap         |
 | instant.town  | available | $9.99     | $48.99        | 108            | 37     | 7      | name.com          |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,904-row public sample | 5,622,080 live domains                           |
+| 8,903-row public sample | 8,904 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
