@@ -1,10 +1,10 @@
-# Available .TOWN One-Word Domains (11,422)
+# Available .TOWN One-Word Domains (11,829)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C422%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C829%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .town one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,422 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,829 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,422 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,829 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/town`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.town    | available | $9.99     | —             | 48             | 41     | 10     | name.com         |
-| events.town       | resell    | —         | —             | 68             | 37     | 6      | NameCheap, Inc.  |
-| Books.town        | premium   | $92.40    | $92.40        | 52             | 49     | 5      | namecheap        |
-| lets.town         | available | $9.99     | —             | 77             | 39     | 4      | name.com         |
-| chatbot.town      | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.  |
-| jobs.town         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com         |
-| payments.town     | available | $9.99     | —             | 58             | 33     | 8      | name.com         |
-| houses.town       | resell    | —         | —             | 66             | 18     | 6      | GoDaddy.com, LLC |
-| solutions.town    | premium   | $123.75   | —             | 56             | 31     | 9      | name.com         |
-| trends.town       | available | $9.99     | —             | 60             | 32     | 6      | name.com         |
-| SanDiego.town     | premium   | $500      | —             | 74             | 29     | 9      | name.com         |
-| letsgo.town       | available | $9.99     | —             | 57             | 31     | 7      | name.com         |
-| systems.town      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
-| cams.town         | available | $9.99     | —             | 52             | 29     | 4      | name.com         |
-| girls.town        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
-| commonground.town | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
-| signs.town        | premium   | $123.75   | —             | 64             | 22     | 5      | name.com         |
-| pages.town        | available | $9.99     | —             | 52             | 28     | 5      | name.com         |
-| apartments.town   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo         |
-| backyard.town     | available | $9.99     | —             | 80             | 27     | 9      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| lets.town         | available | $9.99     | —             | 77             | 39     | 4      | name.com        |
+| chatbot.town      | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| jobs.town         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
+| trends.town       | available | $9.99     | —             | 60             | 32     | 6      | name.com        |
+| solutions.town    | premium   | $123.75   | —             | 56             | 31     | 9      | name.com        |
+| letsgo.town       | available | $9.99     | —             | 57             | 31     | 7      | name.com        |
+| SanDiego.town     | premium   | $500      | —             | 74             | 29     | 9      | name.com        |
+| cams.town         | available | $9.99     | —             | 52             | 29     | 4      | name.com        |
+| systems.town      | premium   | $123.75   | —             | 46             | 27     | 7      | name.com        |
+| commonground.town | available | $9.99     | —             | 74             | 28     | 13     | name.com        |
+| girls.town        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com        |
+| backyard.town     | available | $9.99     | —             | 80             | 27     | 9      | name.com        |
+| signs.town        | premium   | $123.75   | —             | 64             | 22     | 5      | name.com        |
+| Keith.town        | available | $47.48    | —             | 66             | 25     | 5      | namecheap       |
+| apartments.town   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo        |
+| drops.town        | available | $9.99     | —             | 52             | 25     | 5      | name.com        |
+| webs.town         | premium   | $78.54    | $78.54        | 56             | 21     | 4      | namesilo        |
+| pops.town         | available | $9.99     | —             | 74             | 24     | 4      | name.com        |
+| hills.town        | premium   | $123.75   | —             | 65             | 20     | 5      | name.com        |
+| whats.town        | available | $9.99     | —             | 58             | 24     | 5      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,422 live domains                              |
+| 1,000-row public sample | 11,829 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
