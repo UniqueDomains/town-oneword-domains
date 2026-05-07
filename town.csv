@@ -225,6 +225,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 132f0d5d-118b-4235-ac1e-1f6aa2ca8eaf,letwellalone.town,available,9.99,,47,1,14,name.com,,
 13344f55-7657-4715-8245-d00b57ddfec1,watched.town,available,9.99,,74,7,7,name.com,,
 1347fdeb-0eb1-414a-8037-c665da5aec13,ontheropes.town,available,9.99,,59,2,12,name.com,,
+134adb58-b79d-4cc3-b23a-44716948f494,intro.town,premium,,,88,29,5,,,
 13859fb2-2e1c-4169-ae5a-b4fd128c5624,brosbeforehoes.town,available,9.99,,38,1,16,name.com,,
 13a2c913-83ed-473f-8b5f-241eb9c93640,justthen.town,available,9.99,,62,1,9,name.com,,
 13a6023c-40cb-4959-9202-822473839079,seems.town,available,9.99,,58,8,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56854de7-454b-4aa8-beb9-e5fc6fa5deff,finals.town,available,9.99,,80,7,6,name.com,,
 56aa1780-f4d9-4816-9f05-3b281122fd20,comeonstrong.town,available,9.99,,66,2,14,name.com,,
 56aa88ba-2cef-4b19-96ac-1ef14347efcc,intheact.town,available,9.99,,52,1,10,name.com,,
-56b86b24-edf5-4110-9b1f-4cdf2b0cc5e7,hightech.town,available,9.99,,83,16,9,name.com,,
