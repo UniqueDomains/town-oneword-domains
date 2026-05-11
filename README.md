@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .town one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,831 domains · **Median ask:** $16.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/town`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | presents.town  | available | $9.99     | —             | 80             | 9      | 8      | name.com        |
 | rumcake.town   | available | $9.99     | —             | 81             | 3      | 8      | name.com        |
 | lets.town      | available | $9.99     | —             | 77             | 39     | 4      | name.com        |
-| chatbot.town   | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc. |
+| chatbot.town   | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc. |
 | jobs.town      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
 | trends.town    | available | $9.99     | —             | 60             | 32     | 6      | name.com        |
 | solutions.town | premium   | $123.75   | —             | 56             | 31     | 9      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
