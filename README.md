@@ -1,10 +1,10 @@
-# Available .TOWN One-Word Domains (11,833)
+# Available .TOWN One-Word Domains (11,832)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C833%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C832%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .town one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,833 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,832 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,833 domains · **Median ask:** $16.42 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,832 domains · **Median ask:** $18.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/town`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/town`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TOWN one-word domain 
 
 ### Files
 
-- `town.csv` — public CSV extract (1,000 rows)
-- `town.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `town.csv`, public CSV extract (1,000 rows)
+- `town.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| intro.town     | premium   | —         | —             | 88             | 29     | 5      | —               |
-| finals.town    | available | $9.99     | —             | 80             | 7      | 6      | name.com        |
-| barup.town     | available | $9.99     | —             | 82             | 2      | 6      | name.com        |
-| forces.town    | available | $9.99     | —             | 82             | 12     | 6      | name.com        |
-| follow.town    | available | $9.99     | —             | 84             | 28     | 6      | name.com        |
-| Apples.town    | available | $47.48    | —             | 90             | 16     | 6      | namecheap       |
-| gearup.town    | available | $9.99     | —             | 80             | 16     | 7      | name.com        |
-| playin.town    | available | $9.99     | —             | 80             | 10     | 7      | name.com        |
-| hangon.town    | available | $9.99     | —             | 82             | 6      | 7      | name.com        |
-| pierogi.town   | available | $9.99     | —             | 82             | 7      | 7      | name.com        |
-| stirup.town    | available | $9.99     | —             | 82             | 3      | 7      | name.com        |
-| messages.town  | available | $9.99     | —             | 80             | 16     | 8      | name.com        |
-| presents.town  | available | $9.99     | —             | 80             | 9      | 8      | name.com        |
-| rumcake.town   | available | $9.99     | —             | 81             | 2      | 8      | name.com        |
-| lets.town      | available | $9.99     | —             | 77             | 39     | 4      | name.com        |
-| chatbot.town   | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc. |
-| jobs.town      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
-| trends.town    | available | $9.99     | —             | 60             | 32     | 6      | name.com        |
-| solutions.town | premium   | $123.75   | —             | 56             | 31     | 9      | name.com        |
-| letsgo.town    | available | $9.99     | —             | 57             | 31     | 7      | name.com        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| bce.town  | available | $9.99     | —             | medium         | low    | 3      | name.com               |
+| bio.town  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 17      |
+| apt.town  | premium   | $82.50    | —             | high           | low    | 3      | name.com               |
+| Fla.town  | available | $9.99     | —             | medium         | low    | 3      | name.com               |
+| key.town  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| awe.town  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| shh.town  | available | $9.99     | —             | medium         | low    | 3      | name.com               |
+| arch.town | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc            |
+| cap.town  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo               |
+| xxv.town  | available | $9.99     | $48.99        | medium         | low    | 3      | name.com               |
+| bean.town | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc            |
+| cut.town  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com               |
+| aunt.town | available | $9.99     | —             | high           | low    | 4      | name.com               |
+| easy.town | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 49      |
+| DJI.town  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo               |
+| away.town | available | $9.99     | —             | high           | low    | 4      | name.com               |
+| hype.town | resell    | —         | —             | high           | medium | 4      | Dynadot Inc            |
+| dye.town  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo               |
+| brow.town | available | $9.99     | —             | medium         | low    | 4      | name.com               |
+| loco.town | resell    | —         | —             | high           | low    | 4      | Go Canada Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,833 live domains                        |
+| 1,000-row public sample | 11,832 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .town extension, which gives the set a very specific identity. Names such as Acup.town, finals.town, jewels.town, ladies.town, matcha.town, and useit.town show the range: some are category words, some are broader verbs or nouns, and some read more naturally than others with .town. For founders, the key question is whether the full name feels memorable and credible as a brand. For investors, the main check is whether the keyword and extension combine into a name that is buyable at a sensible ask. The median ask across this selection is 16.43.
+This list narrows the .TOWN namespace down to one-word domain names only — no hyphens, no numbers, just clean, single-word combinations like getiton, makehistory, and landscaping. With 11,832 names tracked and a median ask of $18.57, entry pricing stays close to standard registration rather than aftermarket markups. That makes this set useful both for founders scanning for a memorable, ownable name and for anyone comparing low-cost .TOWN inventory across everyday vocabulary — food, fitness, sports, hobbies, and community themes appear throughout the sample.
 
-- One-word .town domains only
-- 11,831 domains in this selection
-- Median ask: 16.43
-- Best picks read naturally with .town
+- 11,832 one-word .TOWN domains tracked across sectors and themes
+- Median asking price of $18.57 keeps entry costs low for buyers
+- Everyday word combos like chaitea.town and lightup.town, ownable now
+- Updated daily to reflect current .TOWN inventory and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
