@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .town one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,406 domains · **Median ask:** $12.10 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/town`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bce.town    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| energy.town | resell    | $42.90    | $42.90        | medium         | medium | 6      | Porkbun LLC       |
-| aft.town    | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo          |
-| cxx.town    | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
-| bio.town    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 17 |
-| apt.town    | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
-| Fla.town    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| key.town    | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC  |
-| awe.town    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| ilx.town    | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
-| arch.town   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
-| cap.town    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| ixl.town    | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
-| bean.town   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
-| ccc.town    | premium   | $118.80   | $118.80       | low            | medium | 3      | namesilo          |
-| lxi.town    | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
-| easy.town   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 49 |
-| cut.town    | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com          |
-| shh.town    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
-| hype.town   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| hello.town   | resell    | —         | —             | high           | high   | 5      | Sav.com, LLC - 25 |
+| easy.town    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 49 |
+| away.town    | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| perfect.town | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
+| cut.town     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com          |
+| special.town | premium   | $250      | —             | high           | low    | 7      | name.com          |
+| bce.town     | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| energy.town  | resell    | $42.90    | $42.90        | medium         | medium | 6      | Porkbun LLC       |
+| aft.town     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo          |
+| cxx.town     | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
+| bio.town     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 17 |
+| apt.town     | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
+| Fla.town     | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| key.town     | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC  |
+| awe.town     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| ilx.town     | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
+| arch.town    | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
+| cap.town     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ixl.town     | available | $6.98     | $47.48        | low            | low    | 3      | namecheap         |
+| bean.town    | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
