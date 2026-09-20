@@ -34,8 +34,8 @@ baae278c-8690-48a1-878c-a1fe464fd0ae,restrain.town,available,9.99,,medium,low,8,
 8ec00d19-a2ca-43d1-b5ff-a1dd36b7e051,bean.town,resell,,,medium,low,4,Dynadot Inc,05/12/2024 15:16,05/12/2027 15:16,
 fd060574-d83f-42ca-b4df-4f55748ad195,foolish.town,available,9.99,48.99,medium,low,7,name.com,,,
 9b4927c3-f202-43b6-9b5c-ce7e6409fc93,posterior.town,available,6.98,47.48,low,low,9,namecheap,,,09/08/2026 11:12
-0ae7e640-d72c-49b1-8e3b-bd5428cb67f1,medicine.town,available,9.99,,high,low,8,name.com,,,
-d48fa0b8-0c62-4d1d-b3aa-6325e960c1ac,WestIndies.town,available,9.99,,low,low,11,name.com,,,
+0ae7e640-d72c-49b1-8e3b-bd5428cb67f1,medicine.town,available,8.99,36.49,medium,low,8,namesilo,,,20/09/2026 02:42
+d48fa0b8-0c62-4d1d-b3aa-6325e960c1ac,westindies.town,available,9.99,,low,low,11,name.com,,,
 e4740805-29ed-46d1-9d20-c7bcfb01fd04,seated.town,available,9.99,,high,low,6,name.com,,,
 54c55036-18db-44ab-a304-1f41dc74fa8b,plaguey.town,available,6.98,47.48,low,low,7,namecheap,,,
 7954769a-250c-485b-8007-9f7a368df440,mentallyill.town,available,9.99,,medium,low,12,name.com,,,
@@ -60,7 +60,6 @@ bc5ee5fa-94d3-4ad1-8191-e29c1131008d,hardwork.town,available,9.99,,high,low,9,na
 ab2f6946-3fd1-40b9-9145-389f9744e768,anorthic.town,available,6.98,47.48,low,low,8,namecheap,,,
 a8b8b5ee-e0ad-455a-996f-a89b12ae633a,easily.town,available,9.99,48.99,high,low,6,name.com,,,
 dc1a6c13-263a-496d-a188-ecfc393f85a8,patient.town,available,9.99,,medium,low,7,name.com,,,
-49e55c9e-2cdb-4705-b4fc-b01cc3b74967,trend.town,resell,,,high,low,5,Dynadot Inc,18/07/2025 17:00,18/07/2026 17:00,
 20b4d0f0-c8c5-421b-8d13-71c84ba9aaee,snippet.town,available,9.99,,high,low,7,name.com,,,
 4a038545-d876-422f-b96c-b7c082459c95,sincere.town,available,9.99,48.99,high,low,7,name.com,,,
 89f3b782-3174-4947-9806-8d32742e80f6,sounding.town,available,9.99,,high,low,8,name.com,,,
@@ -72,15 +71,15 @@ fad59ffe-8baf-4cf5-ac50-720166107cb3,disturb.town,available,9.99,,high,low,7,nam
 d56a086a-0bcc-496e-9dda-01850652e779,rubyred.town,available,6.98,47.48,low,low,8,namecheap,,,10/08/2026 15:08
 3ce60f7f-2ec3-48f1-9dcc-899d6e81a4db,grievous.town,available,6.98,47.48,low,low,8,namecheap,,,07/08/2026 14:41
 faf4c60f-da41-4aae-9c6c-839aab5ad7f0,esurient.town,available,6.98,47.48,low,low,8,namecheap,,,07/08/2026 23:25
-151879f4-e45d-460c-853c-31ea6ff3197f,progressive.town,available,9.99,,high,low,11,name.com,,,
+151879f4-e45d-460c-853c-31ea6ff3197f,progressive.town,available,8.99,36.49,medium,low,11,namesilo,,,19/09/2026 14:06
 f63331dd-13e9-4fc5-ad33-69e55d899640,importantly.town,available,9.99,,medium,low,11,name.com,,,
 fa5c3d99-313e-4d91-8564-a112be6d4eef,congratulations.town,available,9.99,,high,low,15,name.com,,,
 f9a0cbc6-54ae-4aa6-8f43-930cbd392fff,formalise.town,available,9.99,,high,low,9,name.com,,,
 89a3b84f-2a7d-47f1-a7be-4eaf781eca82,feeling.town,available,9.99,,high,low,7,name.com,,,
 351f264e-8987-4154-9a64-b06cbd2286f2,engagement.town,available,9.99,,high,low,10,name.com,,,
 8ac7fbef-71af-4e37-bd01-b204d6d0d16f,hypocritically.town,available,9.99,,medium,low,14,name.com,,,
-113f07ae-7765-418f-8bbd-0ad16a58ca04,AlbertEinstein.town,available,9.99,,high,low,15,name.com,,,
-344cb1e4-84c0-4615-8ca1-9a55a6a2b0de,Iaskyou.town,available,9.99,,medium,low,9,name.com,,,
+113f07ae-7765-418f-8bbd-0ad16a58ca04,alberteinstein.town,available,9.99,,high,low,15,name.com,,,
+344cb1e4-84c0-4615-8ca1-9a55a6a2b0de,iaskyou.town,available,9.99,,medium,low,9,name.com,,,
 411ad81b-5ecd-45c4-ba40-846f7f13aca8,making.town,available,9.99,,high,low,6,name.com,,,
 9872b871-a308-4ee7-a754-4a72a25e6683,atonal.town,available,6.98,47.48,low,low,6,namecheap,,,07/08/2026 13:46
 7517cff5-9931-4fbb-ad49-7f244e5284ae,brow.town,available,9.99,,medium,low,4,name.com,,,
@@ -107,7 +106,6 @@ ce9abed8-8211-434f-a09c-c5ef2b2a6999,pleased.town,available,9.99,,high,low,7,nam
 05ed0f67-b5ae-4a9a-8912-5e4d5a34192c,surething.town,available,9.99,,high,low,10,name.com,,,
 77d4e7ce-c520-42bf-8c9e-64c041ee00aa,altaic.town,available,6.98,47.48,low,low,6,namecheap,,,
 a262a0f0-abf8-4b56-8b44-83802783493b,dye.town,premium,78.54,78.54,medium,low,3,namesilo,,,
-7361601b-6e5c-4bf9-a957-f80a6f8b1eac,line.town,available,,,high,low,4,,,,
 31b0967a-869c-47ba-92bc-1d7c031b7f95,hence.town,available,9.99,,medium,low,5,name.com,,,
 3a334a1b-3430-4a8c-a851-0184008d963e,parched.town,available,6.98,47.48,low,low,7,namecheap,,,
 25d6e65d-c1a7-4ee1-9f53-2c362953a592,shortfall.town,available,9.99,,medium,low,9,name.com,,,
@@ -131,7 +129,7 @@ ebd66ebf-52dc-4999-99f1-35fbebbd5162,van.town,premium,118.8,118.8,high,low,3,nam
 44ad15d5-63e6-4e26-9107-18dbf42f00a1,supervisor.town,available,9.99,,medium,low,10,name.com,,,
 112f67e8-75b2-4e48-ba70-c252c835a54d,recreationroom.town,available,9.99,,high,low,15,name.com,,,
 f145456c-e178-4da0-b362-dcbd3a2a7eeb,allergist.town,available,9.99,,medium,low,9,name.com,,,
-a79cc385-16b8-4174-9ec5-4ee2c90aebe3,generated.town,available,6.98,47.48,low,low,9,namecheap,,,15/09/2026 02:38
+a79cc385-16b8-4174-9ec5-4ee2c90aebe3,generated.town,available,6.98,47.48,low,low,9,namecheap,,,19/09/2026 12:09
 6a59227d-6cac-4ab6-9d0f-14d8f910e15f,gobothways.town,available,9.99,,medium,low,12,name.com,,,
 9bc5c8f7-f176-471e-ae9a-11f13c07e1a7,baffled.town,available,6.98,47.48,low,low,7,namecheap,,,07/08/2026 11:36
 e11c2fdf-dd88-4c34-bcbf-557024945066,referable.town,available,6.98,47.48,low,low,9,namecheap,,,07/08/2026 01:28
@@ -148,7 +146,7 @@ f38eb099-dc09-4271-ad05-91f59217d151,treed.town,available,6.98,47.48,low,low,5,n
 30a0ad91-e6af-423b-8f5b-86506815dce2,redplanet.town,available,9.99,,medium,low,10,name.com,,,
 18b06056-53ef-4fb5-bbc5-b6a603327157,hardluck.town,available,9.99,,medium,low,9,name.com,,,
 ec5d3b9d-38f3-4483-a872-41fa71ec3201,decorated.town,available,9.99,48.99,medium,low,9,name.com,,,
-f012308d-5342-4d13-8e38-35a828d22547,Europeanhedgehog.town,available,9.99,,medium,low,17,name.com,,,
+f012308d-5342-4d13-8e38-35a828d22547,europeanhedgehog.town,available,9.99,,medium,low,17,name.com,,,
 3fc8dc52-9ee0-441b-9981-122c13cb8978,endurance.town,available,9.99,,high,low,9,name.com,,,
 00bd74da-d0f9-497c-aae3-7879dbd95f29,asleep.town,available,9.99,,high,low,6,name.com,,,
 08937845-2e50-4f9b-a6f3-a79e833c9741,addition.town,available,9.99,,high,low,8,name.com,,,
@@ -181,7 +179,7 @@ e65fcba2-54d4-4c23-9bf9-3222b26b2c3f,putoff.town,available,9.99,,medium,low,7,na
 2daa7ecf-df92-424d-bfbb-830e8a3466af,useup.town,available,9.99,,low,low,6,name.com,,,
 6f693664-469e-4200-8d46-df2a4997e923,bloodpressure.town,available,9.99,,high,low,14,name.com,,,
 e1bbc30c-29ac-4634-ae60-ae82543eb013,wrestling.town,available,9.99,,high,low,9,name.com,,,
-9172ab79-c48f-4de7-8291-b8c12e19ef52,YubaCity.town,available,9.99,,medium,low,9,name.com,,,
+9172ab79-c48f-4de7-8291-b8c12e19ef52,yubacity.town,available,9.99,,medium,low,9,name.com,,,
 445ab917-67d7-41d9-9331-2bb956a756a3,described.town,available,9.99,48.99,medium,low,9,name.com,,,
 9f0b46f6-cfcd-4ef7-b9d3-ae4a65ad9681,rejoin.town,available,9.99,,high,low,6,name.com,,,
 8eeacb18-d284-4c43-8d34-5294ab368d73,afoot.town,available,6.98,47.48,low,low,5,namecheap,,,
@@ -189,7 +187,7 @@ a69ee82f-6c4a-4480-a09f-d11ea1e27953,whitetea.town,available,6.98,47.48,medium,l
 952220bd-630f-4d48-bc14-f44cde25fd8b,happiness.town,available,,,high,low,9,,,,
 66e36238-1e21-41ae-9dc1-75e2708a7cc9,activation.town,available,6.98,47.48,low,low,10,namecheap,,,
 7f252f6a-206e-4a42-acc7-d8642c89fbbb,atthat.town,available,9.99,,high,low,7,name.com,,,
-b9cef4f1-6c6b-480f-878a-49d8321df2c1,Fingers.town,available,9.99,,medium,low,7,name.com,,,
+b9cef4f1-6c6b-480f-878a-49d8321df2c1,fingers.town,available,9.99,,medium,low,7,name.com,,,
 e1a50e1e-b3e9-40a2-a174-b4a68dea1945,agrarian.town,available,6.98,47.48,low,low,8,namecheap,,,
 e31bcfc7-9f27-4ad4-9c0f-e8726dc33b59,piston.town,available,9.99,,medium,low,6,name.com,,,
 61a0b1f6-8db8-4f4d-a0c6-bea34f612a6a,eleven.town,available,9.99,48.99,high,low,6,name.com,,,
@@ -211,7 +209,7 @@ ecbc9129-e223-415e-ae81-e2b790338972,listen.town,available,9.99,,high,low,6,name
 ae7dbf33-e1ba-46e9-85ea-2e34418d25b1,reversible.town,available,9.99,,high,low,10,name.com,,,
 bc7e754b-523a-4639-b1c3-90763d6963c8,xxvii.town,available,6.98,47.48,low,low,5,namecheap,,,
 56b77e50-e2fc-4bd7-b889-66d2f99da036,perhaps.town,available,9.99,,high,low,7,name.com,,,
-328d0cab-33d8-4b63-8b57-75898cb040b0,StrongCity.town,available,9.99,,medium,low,11,name.com,,,
+328d0cab-33d8-4b63-8b57-75898cb040b0,strongcity.town,available,9.99,,medium,low,11,name.com,,,
 8600db15-5e78-4772-9462-676440c9b4df,sideways.town,available,9.99,48.99,high,low,8,name.com,,,
 1ccb2464-6235-4738-9997-7536e7fe4ab9,antimonial.town,available,6.98,47.48,low,low,10,namecheap,,,
 aeb24da6-7409-4026-a2a6-5410c58050cd,tippingpoint.town,available,9.99,,high,low,13,name.com,,,
@@ -222,7 +220,7 @@ a573f32f-06f8-42d2-9bb2-06b63ffde282,aversive.town,available,6.98,47.48,low,low,
 7e5f9751-0fa4-4437-990a-4a5b8e069c0d,ascendible.town,available,6.98,47.48,low,low,10,namecheap,,,07/08/2026 00:40
 b4dc713b-69ab-47f5-8e66-c1cfc01e054e,miracle.town,available,9.99,,high,low,7,name.com,,,
 16eb5b07-aebd-4081-abfb-43288920f674,latter.town,available,9.99,,high,low,6,name.com,,,
-a3859065-cade-483c-9f49-5cfdfccc1152,Codes.town,premium,78.54,78.54,medium,low,5,namesilo,,,
+a3859065-cade-483c-9f49-5cfdfccc1152,codes.town,premium,78.54,78.54,medium,low,5,namesilo,,,
 212cd4de-4613-4123-a5a3-9be60b7165f7,seventy.town,available,6.98,47.48,low,low,7,namecheap,,,
 1f79b6e0-89f5-44d3-a46d-7b24d95292f2,lowrise.town,available,9.99,,high,low,8,name.com,,,
 b53afcbd-dcfb-40f2-9cf6-ba8c415d706e,painted.town,available,9.99,,medium,low,7,name.com,,,
@@ -239,10 +237,10 @@ c04638a4-171e-4002-a4c8-b2d8e4ca311a,years.town,available,9.99,,high,low,5,name.
 7e651779-a325-4a78-b030-5967999e1b09,gave.town,available,9.99,,medium,low,4,name.com,,,
 64a6a907-e2fd-41ef-a04c-7fc8e66c33f9,knowsomeone.town,available,9.99,,medium,low,12,name.com,,,
 173c7f57-f07b-45a3-ae86-3c2e20a2b011,atpresent.town,available,9.99,,medium,low,10,name.com,,,
-959f5f86-3366-474f-b713-f5fdd03d90e6,sweetFA.town,available,9.99,,low,low,8,name.com,,,
+959f5f86-3366-474f-b713-f5fdd03d90e6,sweetfa.town,available,9.99,,low,low,8,name.com,,,
 45a33ffd-408e-406e-9068-69dbd33c80f1,psychologist.town,available,9.99,,medium,low,12,name.com,,,
 2a8d2de5-2c4b-436a-92d1-11be285f43a0,addressed.town,available,6.98,47.48,low,low,9,namecheap,,,
-0207dd57-bcd6-4929-956b-6d78594d1594,Flags.town,available,9.99,,medium,low,5,name.com,,,
+0207dd57-bcd6-4929-956b-6d78594d1594,flags.town,available,9.99,,medium,low,5,name.com,,,
 37484183-da53-4126-9170-84fffcb13f0b,bce.town,available,9.99,,medium,low,3,name.com,,,
 9fa4957d-f897-408b-98bb-1ed73400b4d1,astrocytic.town,available,6.98,47.48,low,low,10,namecheap,,,07/08/2026 10:06
 fcbef417-c1eb-4d94-bb6d-4ba21bd4af17,sanctioned.town,available,6.98,47.48,low,low,10,namecheap,,,06/08/2026 09:24
@@ -279,7 +277,7 @@ bbb81dcd-7311-45a4-b72e-3eeff37ad711,alert.town,available,6.98,47.48,medium,low,
 c432dfb6-a996-4620-8d00-85e5639b814a,aquatic.town,available,6.98,47.48,low,low,7,namecheap,,,06/08/2026 10:45
 33207597-fa1a-49c2-a176-18c1176d5a0a,interior.town,available,9.99,,medium,low,8,name.com,,,
 c0d655d5-9dc0-48b1-b6e7-6885ecb35a4e,dear.town,available,9.99,,high,low,4,name.com,,,
-7ec537e9-c15b-40be-9728-6f189ff19e08,HarleyDavidson.town,available,9.99,,high,low,15,name.com,,,
+7ec537e9-c15b-40be-9728-6f189ff19e08,harleydavidson.town,available,9.99,,high,low,15,name.com,,,
 9464f8d5-1bd2-4e6c-a519-63e8414a8607,arthralgic.town,available,6.98,47.48,low,low,10,namecheap,,,06/08/2026 22:49
 771914f8-ce2f-47c1-87eb-515797845e96,freshaspaint.town,available,9.99,,medium,low,14,name.com,,,
 506449c4-ab1a-4663-b326-457139dd52cc,passing.town,available,9.99,,high,low,7,name.com,,,
@@ -315,7 +313,7 @@ b1cb832d-8a89-4695-8711-f101502dec12,topless.town,available,6.98,47.48,low,low,7
 c83fa4e8-1b6f-4555-8582-4c587e3e2967,ashy.town,available,6.98,47.48,low,low,4,namecheap,,,07/08/2026 02:04
 d513c58f-baa2-40e9-949e-75ecc7c4e0d7,selfish.town,available,9.99,,medium,low,7,name.com,,,
 4a739857-60d4-4ddc-9b8f-0f45faa18b33,fog.town,premium,78.54,78.54,high,low,3,namesilo,,,
-6c376bf4-2442-4907-aa6a-7e35302226ac,Zulutime.town,available,9.99,,low,low,9,name.com,,,
+6c376bf4-2442-4907-aa6a-7e35302226ac,zulutime.town,available,9.99,,low,low,9,name.com,,,
 a1e9c840-ae46-4eaf-a903-58cf2beda629,manila.town,premium,242,242,high,low,6,namesilo,,,
 b90040a7-498c-4ab3-afec-f440dc07fd77,autologous.town,available,6.98,47.48,low,low,10,namecheap,,,07/08/2026 20:37
 40978033-5824-4504-9b7d-2590613b05c5,dictator.town,available,6.98,47.48,low,low,8,namecheap,,,07/08/2026 19:17
@@ -326,7 +324,7 @@ df0fe13f-bd26-4958-95c9-51172b17236e,jacobs.town,available,9.99,,high,low,6,name
 af64af1e-c8db-49a4-8701-cac518d70786,graph.town,available,9.99,,high,low,5,name.com,,,
 7e3ebdff-e6fc-438b-b0b2-4e26ece527a3,alkaliser.town,available,6.98,47.48,low,low,9,namecheap,,,
 5f13e101-6479-4048-932d-ef5e0a85c9ab,textbook.town,available,9.99,,high,low,8,name.com,,,
-9978e24f-4350-4e7a-ad37-fb556c0ea8e0,engineer.town,premium,118.8,118.8,medium,low,8,namesilo,,,08/09/2026 09:57
+9978e24f-4350-4e7a-ad37-fb556c0ea8e0,engineer.town,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 14:35
 e339d447-c9d7-484f-b217-090780e310e5,appetitive.town,available,6.98,47.48,low,low,10,namecheap,,,06/08/2026 06:56
 9749705f-e24c-43a3-84f5-2be1fc5c2347,wholly.town,available,6.98,47.48,low,low,6,namecheap,,,
 8b5aa38c-75b6-4446-81ee-1e97fccaf897,luckout.town,available,9.99,,high,low,8,name.com,,,
@@ -355,25 +353,25 @@ db0ea4aa-879f-4445-a035-6ab0bf160353,dispose.town,available,9.99,,high,low,7,nam
 d8fd4572-8445-4c7e-a0f7-823ac3e6ef67,annelid.town,available,6.98,47.48,low,low,7,namecheap,,,
 d6707632-dd6c-4dba-9dce-28e8e1e25631,bigidea.town,available,9.99,,medium,low,8,name.com,,,
 96102271-e2d8-4650-afce-8fc192c5b4a0,apocarpous.town,available,6.98,47.48,low,low,10,namecheap,,,06/08/2026 01:00
-870e6d8b-e352-4a26-8e40-42f0e4ff966a,WhiteCloud.town,available,9.99,,low,low,11,name.com,,,
-bc95ddbc-8f16-439e-841f-f69d4c26cba1,WorldFair.town,available,9.99,,low,low,10,name.com,,,
-573b6fd0-5771-41aa-aa9e-05ccae72cd07,PlayStation.town,available,,,high,low,11,,,,
+870e6d8b-e352-4a26-8e40-42f0e4ff966a,whitecloud.town,available,9.99,,low,low,11,name.com,,,
+bc95ddbc-8f16-439e-841f-f69d4c26cba1,worldfair.town,available,9.99,,low,low,10,name.com,,,
+573b6fd0-5771-41aa-aa9e-05ccae72cd07,playstation.town,available,,,high,low,11,,,,
 a6287bf4-acec-4ee0-9467-edf52d4a6836,ontheedgeof.town,available,9.99,,medium,low,14,name.com,,,
 a01ba74a-d3ff-4ed2-8ea2-92aee2bd8171,pissed.town,available,6.98,47.48,low,low,6,namecheap,,,
 06f851b1-21f7-40af-a930-58c5531db8a9,beadyeyed.town,available,6.98,47.48,low,low,10,namecheap,,,09/08/2026 03:44
 2a599123-704a-4604-bbe7-b2ca448b777c,madison.town,premium,242,242,high,low,7,namesilo,,,
-9dc02440-3ab9-4d28-a292-4a531d1790de,Idoubtit.town,available,9.99,,medium,low,10,name.com,,,
+9dc02440-3ab9-4d28-a292-4a531d1790de,idoubtit.town,available,9.99,,medium,low,10,name.com,,,
 0f91e9cd-9408-41af-8622-f9c28d03790a,bound.town,available,9.99,,medium,low,5,name.com,,,
 b32e9ae2-8217-4feb-90fd-a7c902ef4718,fallshort.town,available,9.99,,medium,low,10,name.com,,,
 2c0d7a32-ed36-4f76-bf38-8392e99c3495,allsmiles.town,available,9.99,,medium,low,10,name.com,,,
 4fc0907a-5e87-4ec3-a8c6-9ce29d0d6015,stockmarket.town,available,9.99,,high,low,12,name.com,,,
 62333106-4e85-4933-997a-1f9eaa5237dc,travelling.town,available,9.99,,high,low,10,name.com,,,
 7636e866-d31b-4aca-9a8d-80f2f99860be,inplaceof.town,available,9.99,,medium,low,11,name.com,,,
-8306cec5-fb7c-43d9-96ba-489822816fd2,marketing.town,premium,82.5,,high,medium,9,name.com,,,
+8306cec5-fb7c-43d9-96ba-489822816fd2,marketing.town,premium,78.54,78.54,medium,low,9,namesilo,,,19/09/2026 13:53
 3abf77f0-d12b-49b9-a89e-dfe4789f07b9,pleasant.town,premium,118.8,118.8,high,low,8,namesilo,,,
 0091874a-6f2e-4ea0-89fe-7181da753572,vampire.town,available,9.99,,high,low,7,name.com,,,
 a7e8d692-7466-4786-90d2-1a52bdc69a8b,conduction.town,available,9.99,,high,low,10,name.com,,,
-c2059c21-6110-4f65-b4c3-7956517b6219,Schneider.town,available,9.99,,medium,low,9,name.com,,,
+c2059c21-6110-4f65-b4c3-7956517b6219,schneider.town,available,9.99,,medium,low,9,name.com,,,
 ae8e2cd2-f466-4f3d-b7e5-d46416a505c5,antidotal.town,available,6.98,47.48,low,low,9,namecheap,,,
 7a1e3462-db8a-45ce-a3df-c691820dd61e,aboveall.town,available,6.98,47.48,low,low,9,namecheap,,,13/09/2026 16:35
 62358c8a-a1d0-423b-88fe-2c9be46ad6c3,havetime.town,available,9.99,,high,low,9,name.com,,,
@@ -400,10 +398,9 @@ ea16616a-6ec4-43fe-91e8-f59facd54534,congregation.town,available,9.99,,high,low,
 317a3e6a-3fa8-4410-8270-9c44d743b0b3,wrecked.town,available,9.99,,medium,low,7,name.com,,,
 8d6d6e6f-70df-4201-8481-f8e7364bea20,stan.town,available,9.99,,high,low,4,name.com,,,
 df4d46d6-d7ea-4cf5-9342-4933b20d4860,cooking.town,premium,78.54,78.54,medium,low,7,namesilo,,,08/09/2026 08:19
-3e57559c-f055-40d9-8792-53162c239f4b,SriLanka.town,available,,,low,low,9,,,,
+3e57559c-f055-40d9-8792-53162c239f4b,srilanka.town,available,,,low,low,9,,,,
 888483b0-0345-47a1-b2e0-1351c843a1a0,barehanded.town,available,6.98,47.48,low,low,10,namecheap,,,08/08/2026 19:10
 52b73df0-923c-4e5f-9bd1-482a5b296fd8,coach.town,premium,118.8,118.8,high,low,5,namesilo,,,
-b0ce2233-82a3-4381-b1c4-6702bfa51f5b,canon.town,available,,,high,low,5,,,,
 d332383a-0e89-4bac-a470-c000b581df2d,placatory.town,available,6.98,47.48,low,low,9,namecheap,,,06/08/2026 06:12
 8af34059-d7bc-4354-8152-9b4d1c22d42c,oversight.town,available,9.99,,high,low,9,name.com,,,
 154e381b-7f93-4c5e-aeb5-789994dbad66,borrow.town,available,9.99,,medium,low,6,name.com,,,
@@ -423,9 +420,9 @@ b61d838d-59c7-4434-b842-ba5da73f290b,critic.town,available,9.99,,high,low,6,name
 1aa484d3-8acd-46d7-bfda-921354f2bb3b,fictive.town,available,6.98,47.48,low,low,7,namecheap,,,07/08/2026 07:55
 9c06dcad-d29e-4608-8ebb-e1f33f0f24a0,ampullary.town,available,6.98,47.48,low,low,9,namecheap,,,
 202fc291-be3f-4150-a4e2-a7d510631054,ankylotic.town,available,6.98,47.48,low,low,9,namecheap,,,
-2d44a04e-b15f-48e3-9343-b6ea36939184,businessman.town,available,6.98,47.48,medium,low,11,namecheap,,,15/09/2026 06:07
+2d44a04e-b15f-48e3-9343-b6ea36939184,businessman.town,available,8.99,36.49,medium,low,11,namesilo,,,19/09/2026 04:56
 846485c8-2ead-49a9-bdbc-a392580fd91b,beautifully.town,available,9.99,,medium,low,11,name.com,,,
-9077b173-e7d4-4eed-9099-85019a43c593,NewZealand.town,available,,,medium,low,11,,,,
+9077b173-e7d4-4eed-9099-85019a43c593,newzealand.town,available,,,medium,low,11,,,,
 13b767df-95c6-4137-af55-57dbdb8daacc,informal.town,available,9.99,,high,low,8,name.com,,,
 8b7091c8-051e-44fb-a616-b9ac593884de,childcare.town,available,9.99,,high,low,10,name.com,,,
 f5307015-f89d-4cdc-8a4d-f4a7f3f3a4aa,imagine.town,available,9.99,,high,medium,7,name.com,,,
@@ -460,8 +457,8 @@ b1565af1-0942-4bca-9dcc-88e3a6c44bfa,thisinstant.town,available,9.99,,low,low,12
 f010d808-c0c1-4721-b7ce-e0a2a9e87b0e,bacterioid.town,available,6.98,47.48,low,low,10,namecheap,,,08/08/2026 07:17
 51b37e2c-b7e9-42c5-bfc4-2bc910ce17dd,thread.town,available,9.99,,high,low,6,name.com,,,
 bb3e8adb-453f-4f35-90a2-6eaa4bc7692c,sharpeyed.town,available,6.98,47.48,low,low,10,namecheap,,,06/08/2026 18:53
-5031bfdb-ff21-4d07-94cd-448e9fe13554,Latinalphabet.town,available,9.99,,high,low,14,name.com,,,
-45b6f3d1-c032-4773-973c-6fa408170428,IndianaJones.town,available,9.99,,high,low,13,name.com,,,
+5031bfdb-ff21-4d07-94cd-448e9fe13554,latinalphabet.town,available,9.99,,high,low,14,name.com,,,
+45b6f3d1-c032-4773-973c-6fa408170428,indianajones.town,available,9.99,,high,low,13,name.com,,,
 aabf7e5a-2433-4cef-b444-fb8dd4959b72,shoplift.town,available,9.99,,high,low,8,name.com,,,
 d9295687-c3d9-4ec5-8ec0-9184e4f8a935,clxxv.town,available,6.98,47.48,low,low,5,namecheap,,,
 4fd20dea-5157-4d28-8119-053941d63d5e,digitalcamera.town,available,9.99,,high,low,14,name.com,,,
@@ -486,7 +483,7 @@ dd80abc2-2366-426f-b6d9-b81021118553,pale.town,available,9.99,,medium,low,4,name
 7bfa1052-117f-4aca-a3df-8275933bfd56,nomatter.town,available,9.99,,medium,low,9,name.com,,,
 c39c1c85-fda6-421a-acb9-4186cfd7bbe1,cracked.town,available,9.99,48.99,high,low,7,name.com,,,
 49259775-b50d-4950-9bf0-33b84d6b1d67,abbatial.town,available,6.98,47.48,low,low,8,namecheap,,,
-bc038d58-5324-456d-a437-6d48616c9791,Frenchrice.town,available,9.99,,high,low,11,name.com,,,
+bc038d58-5324-456d-a437-6d48616c9791,frenchrice.town,available,9.99,,high,low,11,name.com,,,
 e6888975-ff9c-4b80-a9aa-4092b19e9802,verymuch.town,available,9.99,,high,low,9,name.com,,,
 2f979f7d-81c8-4309-b156-62063bbc5432,full.town,available,9.99,,medium,low,4,name.com,,,
 94e3b11f-d941-4b35-8048-baa08e63a6c0,auxiliary.town,available,6.98,47.48,low,low,9,namecheap,,,
@@ -498,7 +495,7 @@ b9737e25-9cfc-4be7-aaa9-a63ee6c0dc85,section.town,available,6.98,47.48,medium,lo
 d24b435f-72f6-494f-bd10-3862fb15935b,required.town,available,9.99,48.99,medium,low,8,name.com,,,
 091c44ce-f62e-4986-9665-821139fdbd0e,hercules.town,available,9.99,,high,low,8,name.com,,,
 4db0d870-3e11-4cd7-bb9c-36443188ed0e,goodbet.town,available,9.99,,high,low,8,name.com,,,
-fb61b77f-38a9-46e9-b49e-e16dbbe31dce,enemy.town,available,6.98,47.48,medium,low,5,namecheap,,,15/09/2026 01:14
+fb61b77f-38a9-46e9-b49e-e16dbbe31dce,enemy.town,available,6.98,47.48,low,low,5,namecheap,,,19/09/2026 10:02
 a3be9f1a-7ff5-465e-a008-6119ced2af6c,prochoice.town,available,9.99,,medium,low,10,name.com,,,
 6df17d41-b990-4767-b23d-7fc1ff4c90ef,commoncold.town,available,9.99,,medium,low,11,name.com,,,
 52f84977-1fde-4cf9-ad31-0a9232dba5fe,according.town,available,6.98,47.48,low,low,9,namecheap,,,
@@ -508,19 +505,17 @@ a3be9f1a-7ff5-465e-a008-6119ced2af6c,prochoice.town,available,9.99,,medium,low,1
 0dac84c1-0789-492b-a589-9830aba80245,easy.town,resell,,,high,medium,4,"Sav.com, LLC - 49",13/09/2025 17:00,13/09/2026 17:00,
 b045a165-ec85-4c1a-a438-325c99082b92,thirtysix.town,available,6.98,47.48,low,low,10,namecheap,,,
 109cb65e-5aaf-41fe-bd63-6f7e1f9f10dc,owe.town,premium,38.94,38.94,high,low,3,namesilo,,,
-ae92c1ad-0ba7-49db-983d-c057bfb27aab,key.town,resell,,,medium,medium,3,"GoDaddy.com, LLC",31/10/2017 03:17,31/10/2026 03:17,13/09/2026 03:47
 b21937a7-d621-47b1-a0c1-123fb8aebce1,lyrics.town,available,9.99,,high,low,6,name.com,,,
 ab2a3205-1208-4830-9f9d-99a77edff5b0,affiliated.town,available,6.98,47.48,low,low,10,namecheap,,,
 9f639f5d-8be1-4afe-8b67-4f47f8a069bc,strain.town,available,9.99,,medium,low,6,name.com,,,
-c713524d-f5ab-4c6f-bff7-2af5901aa75f,Romanfoot.town,available,9.99,,low,low,10,name.com,,,
+c713524d-f5ab-4c6f-bff7-2af5901aa75f,romanfoot.town,available,9.99,,low,low,10,name.com,,,
 8a666181-2d45-486f-aea7-8cf51bd9dd52,attheoutside.town,available,9.99,,medium,low,14,name.com,,,
 b0745514-e80a-4914-80ba-29c11bd41cea,keepscore.town,available,9.99,,high,low,10,name.com,,,
 37b5f13d-347b-4a65-bd45-9cc19974ef58,checklist.town,available,9.99,,high,low,9,name.com,,,
 5421ba66-c335-4978-b166-246e59ede803,continuously.town,available,9.99,,medium,low,12,name.com,,,
-c57f13d8-8a51-40b6-9f76-352d5d902f5f,nourishing.town,available,6.98,47.48,medium,low,10,namecheap,,,15/09/2026 02:55
+c57f13d8-8a51-40b6-9f76-352d5d902f5f,nourishing.town,available,6.98,47.48,medium,low,10,namecheap,,,19/09/2026 17:50
 1628d3d8-c632-4dab-a6a2-56c903f1c664,limit.town,available,9.99,,high,low,5,name.com,,,
 8fd9bc99-d5b0-4f08-8f1f-3c56140e4fde,televisionchannel.town,available,9.99,,high,low,18,name.com,,,
-048d34bc-edf0-40a8-9eba-e7444804491f,arch.town,resell,,,medium,low,4,Dynadot Inc,19/07/2025 17:00,19/07/2026 17:00,
 25e8370f-3f61-4bd8-9aab-2cfad01e8130,conflicted.town,available,9.99,,medium,low,10,name.com,,,
 c13155ff-0de1-4d02-8f00-d8a39febf782,travelled.town,available,9.99,,medium,low,9,name.com,,,
 c63cadf6-f06e-4b58-b1cc-2f207049fd77,philistine.town,available,6.98,47.48,low,low,10,namecheap,,,
@@ -567,21 +562,21 @@ a31a96a9-5b0e-433c-ad1f-686734bced08,gettakenin.town,available,9.99,,medium,low,
 f5065dd7-7f93-4b35-8e63-f33b7a29f02d,grin.town,available,9.99,,high,low,4,name.com,,,
 6948ecc5-72b6-4d67-a217-8988bfacfe9f,costly.town,available,9.99,48.99,medium,low,6,name.com,,,
 101160b7-79fb-4dd8-b06f-93ddc3f6e1c4,appreciative.town,available,9.99,,high,low,12,name.com,,,
-039ca049-bb92-4b52-9505-91f6163f183b,IKiribati.town,available,9.99,,high,low,10,name.com,,,
+039ca049-bb92-4b52-9505-91f6163f183b,ikiribati.town,available,9.99,,high,low,10,name.com,,,
 9005bd32-7e4c-451e-bac3-9c2204811c5d,datefrom.town,available,9.99,,medium,low,9,name.com,,,
 c4e75691-0b72-4ea6-b05e-3c58c3c01a44,medium.town,available,9.99,,high,low,6,name.com,,,
 c52266b6-67a1-46d2-845f-bce21c528613,xxxii.town,available,6.98,47.48,low,low,5,namecheap,,,
-dd547b01-905b-4c74-bb46-41b3f7e806bb,MasterofScience.town,available,9.99,,medium,low,17,name.com,,,
+dd547b01-905b-4c74-bb46-41b3f7e806bb,masterofscience.town,available,9.99,,medium,low,17,name.com,,,
 4f6b20f3-9eb6-4e0b-a43a-7bd5f638a202,prolific.town,available,9.99,,high,low,8,name.com,,,
 4cede09b-92c6-4aff-ab7a-8516302dc4bc,appreciate.town,available,9.99,,high,low,10,name.com,,,
-ec30a5c5-30b6-44bd-becc-e9e59e467fc6,HIVvirus.town,available,9.99,,medium,low,9,name.com,,,
+ec30a5c5-30b6-44bd-becc-e9e59e467fc6,hivvirus.town,available,9.99,,medium,low,9,name.com,,,
 47b0dec7-c17d-43a5-84de-87d3ed239252,airport.town,premium,78.54,78.54,medium,low,7,namesilo,,,
 d48897f1-146b-4f72-8863-42434b794aa4,incentive.town,available,9.99,,high,low,9,name.com,,,
 6506e480-12da-4364-b3e6-d10fb52d2009,boattrip.town,available,9.99,,high,low,9,name.com,,,
 45ff3333-b578-460e-a02e-e94d83326be4,barring.town,available,9.99,,medium,low,7,name.com,,,
 e36e97df-50b0-46de-ba28-bd20438e321f,compressed.town,available,9.99,48.99,medium,low,10,name.com,,,
 eb5ee20d-e4a3-46ae-94f4-39e2d3a2fc7e,fighting.town,available,9.99,,medium,low,8,name.com,,,
-8fa06677-50ea-4262-88ae-b3e4a4ba17f4,Shrek.town,available,,,high,low,5,,,,
+8fa06677-50ea-4262-88ae-b3e4a4ba17f4,shrek.town,available,,,high,low,5,,,,
 586ace39-0cd2-4daf-8b85-820b71e6c131,bonkers.town,premium,78.54,78.54,low,low,7,namesilo,,,06/08/2026 20:40
 80b668bb-5c4d-40c0-9e7d-af009df34efc,bashful.town,available,6.98,47.48,low,low,7,namecheap,,,08/08/2026 22:01
 d3ba592a-f452-4a70-820b-2c759a25f47e,finalwords.town,available,9.99,,high,low,11,name.com,,,
@@ -590,7 +585,7 @@ f319c5f0-9c1c-44f9-9458-f2044666a1df,marvellous.town,available,9.99,,high,low,10
 657ff1e2-eb45-4da4-945a-62ba1a427353,royalblue.town,available,9.99,,high,low,10,name.com,,,
 51693599-2622-4562-bdb0-427b5486daea,savingsaccount.town,available,9.99,,high,low,15,name.com,,,
 2c47098d-350e-48a0-87b3-735835d42b2c,unkeyed.town,available,6.98,47.48,low,low,7,namecheap,,,07/08/2026 13:50
-6d629306-b5f2-463b-b1df-271b8ddeadbc,buffet.town,available,6.98,47.48,medium,low,6,namecheap,,,14/09/2026 03:26
+6d629306-b5f2-463b-b1df-271b8ddeadbc,buffet.town,available,8.99,36.49,medium,low,6,namesilo,,,19/09/2026 17:05
 b97c806e-f2e4-47fd-baf2-c61516156999,believable.town,available,6.98,47.48,low,low,10,namecheap,,,09/08/2026 13:01
 8f7419ab-2b30-4f48-ab06-e0d2f4dba8dd,haveonemoretime.town,available,9.99,,medium,low,18,name.com,,,
 e813742a-02ce-481e-9bd9-b9ddf64687d3,nuts.town,available,9.99,,medium,low,4,name.com,,,
@@ -613,14 +608,14 @@ fea37fde-01e6-4e8f-a1b4-dec1141f8115,bahrain.town,available,,,medium,low,7,,,,
 1e1172a6-9aca-4ac2-ba15-2ee6eba30fbe,afghan.town,premium,38.94,38.94,low,low,6,namesilo,,,
 c8265ac0-6d91-426a-9a6a-97b528d902d4,messy.town,available,9.99,,medium,low,5,name.com,,,
 ae6ade58-bf38-4b28-9d25-5ff6cb464b86,namely.town,available,9.99,,medium,low,6,name.com,,,
-5ecade08-2cf1-4a5c-a500-e19bd2014d4c,mixed.town,available,6.98,47.48,low,low,5,namecheap,,,15/09/2026 02:59
+5ecade08-2cf1-4a5c-a500-e19bd2014d4c,mixed.town,available,8.99,36.49,low,low,5,namesilo,,,19/09/2026 12:23
 eb04b168-cd12-4b2b-adfd-a51672c1dab3,boer.town,available,6.98,47.48,low,low,4,namecheap,,,
-96cc05c9-c521-42c4-bdae-ae9b5637920b,StMoritz.town,available,9.99,,medium,low,10,name.com,,,
+96cc05c9-c521-42c4-bdae-ae9b5637920b,stmoritz.town,available,9.99,,medium,low,10,name.com,,,
 f3399003-78d2-4fed-841b-ff5ba1c4612f,slim.town,available,9.99,,high,low,4,name.com,,,
 edaaa7e3-cca6-4e10-8aa3-63a9ba90f6c0,batrachian.town,available,6.98,47.48,low,low,10,namecheap,,,05/08/2026 20:53
-e4578174-b681-4dbf-8a9a-94dffb3b22ce,Fairs.town,available,9.99,,high,low,5,name.com,,,
+e4578174-b681-4dbf-8a9a-94dffb3b22ce,fairs.town,available,9.99,,high,low,5,name.com,,,
 26e95186-5a23-4285-be31-d177f9b8bf5c,zesty.town,available,6.98,47.48,medium,low,5,namecheap,,,08/08/2026 20:02
-b6d93842-f69f-435d-b7fd-007ed0df5a33,spread.town,available,9.99,48.99,high,low,6,name.com,,,
+b6d93842-f69f-435d-b7fd-007ed0df5a33,spread.town,available,6.98,47.48,medium,low,6,namecheap,,,19/09/2026 12:51
 e7a146af-5356-498f-88f2-4b20ffa77f61,educate.town,available,9.99,,high,low,7,name.com,,,
 d8b17827-07d7-4167-8be8-d36018f2949b,armed.town,available,9.99,,high,low,5,name.com,,,
 7ca0b652-8352-4f1f-8bd1-8ceb930171cb,burly.town,available,6.98,47.48,low,low,5,namecheap,,,09/08/2026 07:54
@@ -635,7 +630,7 @@ a790df9b-c935-47fb-ad8e-3277f1941ffe,passive.town,available,9.99,,high,low,7,nam
 c7a148ab-e37e-43cb-8a21-ccebf5f71c6f,obey.town,available,9.99,,high,low,4,name.com,,,
 0c26833e-5109-41da-aa04-b3b10e829f2a,criticise.town,available,9.99,,medium,low,9,name.com,,,
 748380d0-00ea-40e5-9b8e-d667afb51fe2,colombo.town,available,9.99,,high,low,7,name.com,,,
-c5c3ef79-583a-4fb1-86a9-13fb8e6ccf56,uniform.town,available,6.98,47.48,medium,low,7,namecheap,,,12/09/2026 03:44
+c5c3ef79-583a-4fb1-86a9-13fb8e6ccf56,uniform.town,available,8.99,36.49,medium,low,7,namesilo,,,19/09/2026 05:41
 3fcd3dd4-77a1-45cb-85bd-35b68a488883,complain.town,available,9.99,,medium,low,8,name.com,,,
 6ccf86a2-0872-46dc-a125-a66533c28ac9,thumping.town,available,6.98,47.48,low,low,8,namecheap,,,08/08/2026 13:08
 58bb6697-b6d4-4e12-aaa0-e13abcf34411,granddad.town,available,9.99,,high,low,8,name.com,,,
@@ -695,7 +690,7 @@ a7f4d5ca-106e-435c-9ef2-77256cdef5c1,fearless.town,available,,,high,high,8,,,,
 9bb067d0-d9c2-4f94-b1ae-bb6eb0836e88,cheesefood.town,available,9.99,,medium,low,11,name.com,,,
 50a19e85-0780-43b3-acfa-199a62284336,shocking.town,available,9.99,48.99,medium,low,8,name.com,,,
 7e46bfd8-4161-4576-804a-359851eb3ede,late.town,available,9.99,,high,low,4,name.com,,,
-58d50fb4-824e-4dbf-aee0-fe7fa499b08a,backup.town,available,9.99,,high,low,6,name.com,,,
+58d50fb4-824e-4dbf-aee0-fe7fa499b08a,backup.town,available,8.99,36.49,medium,low,6,namesilo,,,20/09/2026 03:14
 41a719d2-13cf-4942-a736-c4ecbee4c4bf,moderately.town,available,9.99,,medium,low,10,name.com,,,
 f7911061-ed78-4c1a-b6d6-e83f10ae2685,runabout.town,available,9.99,,low,low,9,name.com,,,
 7946c6a5-49cc-4bdd-876f-2b02b3ac7742,soap.town,resell,,,high,low,4,"GoDaddy.com, LLC",10/06/2020 19:26,10/06/2026 19:26,
@@ -703,8 +698,8 @@ f7911061-ed78-4c1a-b6d6-e83f10ae2685,runabout.town,available,9.99,,low,low,9,nam
 793cf9e7-63fa-42d5-91d1-75ae46818bed,releasecandidate.town,available,9.99,,high,low,17,name.com,,,
 c8696324-eab0-4e9a-9e48-9e9da2ed29b3,eolian.town,available,6.98,47.48,low,low,6,namecheap,,,
 ee016996-e9ca-402a-8c60-f3f678660085,vertical.town,available,9.99,,high,low,8,name.com,,,
-411b61a2-38d1-4006-89d1-9d41e1c3d459,DJI.town,premium,118.8,118.8,high,low,3,namesilo,,,
-5d441b8e-6fa9-4845-ae3e-15b1950ac309,rolling.town,available,6.98,47.48,low,low,7,namecheap,,,13/09/2026 03:13
+411b61a2-38d1-4006-89d1-9d41e1c3d459,dji.town,premium,118.8,118.8,high,low,3,namesilo,,,
+5d441b8e-6fa9-4845-ae3e-15b1950ac309,rolling.town,available,6.98,47.48,low,low,7,namecheap,,,19/09/2026 06:51
 86394ba2-fdcf-4cb3-927d-077a637c119c,solicit.town,available,9.99,,high,low,7,name.com,,,
 e617b386-42c6-4ee0-b128-5aa17364537a,clickbait.town,available,9.99,,high,low,9,name.com,,,
 ccc2b77c-4370-4618-90d1-38c420d5b84c,combat.town,available,9.99,,high,low,6,name.com,,,
@@ -750,11 +745,11 @@ fca701f2-d338-4744-8521-28ca893ae72b,anticancer.town,available,9.99,,high,low,10
 1bd06644-a45b-420f-b054-9905931635f2,momentum.town,available,9.99,,high,medium,8,name.com,,,
 768b8afc-f516-4993-9e65-8fbd573a88b0,squinty.town,available,6.98,47.48,low,low,7,namecheap,,,07/08/2026 03:20
 101831cc-9265-490d-bfae-dd46f1d8d3ec,artistic.town,available,9.99,,high,low,8,name.com,,,
-3add6c35-36ed-4d1a-aa20-ada768b5661d,object.town,available,6.98,47.48,medium,low,6,namecheap,,,15/09/2026 04:57
+3add6c35-36ed-4d1a-aa20-ada768b5661d,object.town,available,8.99,36.49,medium,low,6,namesilo,,,19/09/2026 05:21
 6c288a7a-6f8d-4f7f-aeaf-5668cd144608,rid.town,premium,78.54,78.54,high,low,3,namesilo,,,
 b1845728-37cd-4624-b8b5-09457790a0b5,turtleneckcollar.town,available,9.99,,high,low,17,name.com,,,
 f25baaff-9a44-4b6f-937a-4e09dcbd767c,corner.town,premium,118.8,118.8,medium,low,6,namesilo,,,
-caaca010-9392-4c8a-b0bc-743f4b62ecf5,Islands.town,premium,78.54,78.54,high,low,7,namesilo,,,
+caaca010-9392-4c8a-b0bc-743f4b62ecf5,islands.town,premium,78.54,78.54,high,low,7,namesilo,,,
 c0fe02dc-5ee6-46e1-8976-c34692f32b9a,fortytwo.town,available,6.98,47.48,low,low,9,namecheap,,,
 26d89735-21ca-485b-afcb-537ed7a78b48,epidemic.town,available,9.99,,high,low,8,name.com,,,
 c2381114-4159-409f-936f-bf9105133703,facilitating.town,available,9.99,,medium,low,12,name.com,,,
@@ -765,7 +760,7 @@ a8af7376-9ca2-4b2c-a597-0489195c5630,proficient.town,available,9.99,48.99,high,l
 3f9ff176-24cb-48d1-82dd-8b7388e2553a,hype.town,resell,,,high,medium,4,Dynadot Inc,06/06/2025 17:00,06/06/2026 17:00,
 8c85d571-ef16-4766-a9de-44d91dbf1a1a,technologies.town,available,9.99,,low,low,12,name.com,,,
 d5a2498c-b815-484b-8c34-0829ae078c9f,aperiodic.town,available,6.98,47.48,low,low,9,namecheap,,,05/08/2026 22:30
-f14fb345-2ad9-4a26-b7b7-b21d21d791b1,GreenPark.town,available,9.99,,medium,low,10,name.com,,,
+f14fb345-2ad9-4a26-b7b7-b21d21d791b1,greenpark.town,available,9.99,,medium,low,10,name.com,,,
 1a02c904-2219-4b2f-bf1a-287958c0e627,backpack.town,premium,78.54,78.54,high,low,8,namesilo,,,
 328080be-b6b9-4bfd-b88f-14dcfc7b4264,carrying.town,available,9.99,,high,low,8,name.com,,,
 af984b9f-5ea3-49d2-b60b-0f96cbcda55a,returning.town,available,9.99,,high,low,9,name.com,,,
@@ -777,7 +772,7 @@ edf1dd6a-2cd7-4026-b66a-c73b7656f4a5,midspring.town,available,9.99,,high,low,10,
 7b816725-dfa2-42d0-9907-7cb61c559404,alkalizer.town,available,6.98,47.48,low,low,9,namecheap,,,
 1a9dee11-d2b2-4e6f-9fd0-c508eb07d367,armada.town,available,9.99,,medium,low,6,name.com,,,
 2b9ddfb7-b6e4-44db-9402-f21d42577e92,oldschool.town,available,9.99,,high,low,10,name.com,,,
-de5e58c6-788e-40e8-99ea-c53402609b22,Fla.town,available,9.99,,medium,low,3,name.com,,,
+de5e58c6-788e-40e8-99ea-c53402609b22,fla.town,available,9.99,,medium,low,3,name.com,,,
 d9fad3ba-a604-4b73-a710-623067d01df6,specially.town,available,9.99,,medium,low,9,name.com,,,
 8982a40b-14cd-410c-8e47-2e3e27ff5a5d,fullscale.town,available,9.99,48.99,high,low,10,name.com,,,
 b6488b5c-70e9-4e02-a798-7262c0e9d2c5,dorsal.town,available,6.98,47.48,low,low,6,namecheap,,,
@@ -789,14 +784,14 @@ e5ff6612-6ebf-4418-b29c-010cb463af85,ideal.town,available,9.99,,high,low,5,name.
 208dfc8e-2829-405f-a954-a85de8e58e70,anybudy.town,available,9.99,,medium,low,7,name.com,,,
 369e2bf9-e53c-43e5-bc0f-6d1e92cb0eda,collectivenoun.town,available,9.99,,high,low,15,name.com,,,
 aeb5e2e3-8e22-486b-980a-0c9fbed368b4,canal.town,premium,118.8,118.8,medium,low,5,namesilo,,,
-df9177f7-b609-426c-b873-ccbad9fc94fa,television.town,available,9.99,,high,low,10,name.com,,,
+df9177f7-b609-426c-b873-ccbad9fc94fa,television.town,available,8.99,36.49,medium,low,10,namesilo,,,20/09/2026 02:37
 65b40ee3-8141-4bf6-a58f-a2704e15216c,incorrect.town,available,9.99,,high,low,9,name.com,,,
 9f08881f-74d4-40ce-9c20-64181f49143e,abdominal.town,available,9.99,48.99,high,low,9,name.com,,,
 38cac9d2-03aa-41d6-ab7e-bc21c5b55a19,manmade.town,available,9.99,,medium,low,8,name.com,,,
 a2f317f9-9789-437e-a28e-1e120f2819ad,barefaced.town,available,6.98,47.48,low,low,9,namecheap,,,08/08/2026 09:20
 1d14874a-09f9-41b8-8580-f504c57aa1d0,taal.town,available,6.98,47.48,low,low,4,namecheap,,,
 0dc9a311-1e35-4b1c-bcd5-d83d003e9d47,sixfeetunder.town,available,9.99,,low,low,14,name.com,,,
-ba103165-a9bc-4fa9-b8a2-b148a8a049d4,Iseeyou.town,available,9.99,,medium,low,9,name.com,,,
+ba103165-a9bc-4fa9-b8a2-b148a8a049d4,iseeyou.town,available,9.99,,medium,low,9,name.com,,,
 bdc2ac19-1140-4542-bac3-ac6829b54d3c,adored.town,available,9.99,48.99,high,low,6,name.com,,,
 0411488e-81ed-4f5f-9877-281229a25959,discount.town,premium,118.8,118.8,high,low,8,namesilo,,,
 93b09c1e-6b50-4d49-93db-78522a742b1d,anticipated.town,available,6.98,47.48,low,low,11,namecheap,,,08/09/2026 14:34
@@ -810,7 +805,7 @@ dbfda3ba-ffb7-484b-9968-8cc8071daf26,tempting.town,available,9.99,48.99,high,low
 bebe3a65-f73a-45a2-8431-4fb80fa1e991,distract.town,available,9.99,,high,low,8,name.com,,,
 d9458546-ac37-4e87-8c2c-48c36e76ca10,trimback.town,available,9.99,,medium,low,9,name.com,,,
 f7ad6c02-ecea-4559-9737-830573ab1e9f,nettled.town,available,6.98,47.48,low,low,7,namecheap,,,
-ce551fea-b461-4b9d-adc6-9acc024ef633,Americas.town,available,9.99,,medium,low,8,name.com,,,
+ce551fea-b461-4b9d-adc6-9acc024ef633,americas.town,available,9.99,,medium,low,8,name.com,,,
 741d0f04-cf0c-48b4-8836-8288e141f485,autosomal.town,available,6.98,47.48,low,low,9,namecheap,,,07/08/2026 21:02
 a8722fd6-faa6-4e13-8df3-282dba411dbd,covenant.town,available,9.99,,high,low,8,name.com,,,
 a7d47cbb-2e34-44fc-9977-9260d41085ee,email.town,resell,,,high,medium,6,"Sav.com, LLC - 45",25/03/2025 15:15,25/03/2027 15:15,
@@ -818,7 +813,7 @@ a7d47cbb-2e34-44fc-9977-9260d41085ee,email.town,resell,,,high,medium,6,"Sav.com,
 addbdceb-b425-43c2-8e95-498d8e82eaa0,skirt.town,available,9.99,,high,low,5,name.com,,,
 0bd8c86f-aa55-4fde-bae8-8489a13c0928,bighair.town,available,9.99,,high,low,8,name.com,,,
 c3471da2-cf31-4d94-bd03-a3f6051a847f,landline.town,available,9.99,,medium,low,9,name.com,,,
-59c226ce-ea51-44ba-ba21-7c27f2f896a8,column.town,available,6.98,47.48,medium,low,6,namecheap,,,13/09/2026 02:56
+59c226ce-ea51-44ba-ba21-7c27f2f896a8,column.town,available,8.99,36.49,medium,low,6,namesilo,,,19/09/2026 04:50
 f7703929-7a10-4ff6-8af0-19ef5f0d6b91,use.town,premium,118.8,118.8,high,low,3,namesilo,,,
 1da99846-bff9-4dc0-8a5a-d9a8e226706a,aldehydic.town,available,6.98,47.48,low,low,9,namecheap,,,
 08e01c74-e804-4c40-87cb-4c72d4545bf0,wink.town,available,9.99,,high,low,4,name.com,,,
@@ -883,7 +878,7 @@ ff6ead62-2519-4d94-be1f-112503807356,easter.town,available,9.99,48.99,high,low,6
 286ab8f0-393b-4971-ad12-a4acf42527a8,lyric.town,available,9.99,,medium,low,5,name.com,,,
 427702ff-5ef8-46e0-9787-0b35c7ee8e9d,away.town,available,9.99,,high,low,4,name.com,,,
 ec87d41e-f73d-4a27-8516-d888fde8c366,airdry.town,available,6.98,47.48,low,low,7,namecheap,,,
-d9906c35-b5d7-4057-bd82-1675923c46b5,ElSalvador.town,available,,,medium,low,11,,,,
+d9906c35-b5d7-4057-bd82-1675923c46b5,elsalvador.town,available,,,medium,low,11,,,,
 95b51eb5-ab9e-4c7a-a0e9-0f6faa0a7889,ixl.town,available,6.98,47.48,low,low,3,namecheap,,,
 ab98a450-7b65-452b-8968-b2e3fc50af22,planetarium.town,available,9.99,,medium,low,11,name.com,,,
 2ca61a54-b6c1-4a0b-b18f-9c3dbfb1ed24,eatat.town,available,9.99,,high,low,6,name.com,,,
@@ -901,7 +896,7 @@ a2f5b326-4a2b-42b9-ab3b-15f70dde492e,orchestra.town,available,9.99,,high,low,9,n
 c5690119-5f52-4af7-b59a-4cd2de0faf26,aslant.town,available,6.98,47.48,low,low,6,namecheap,,,07/08/2026 03:56
 d8c8e89d-4196-4637-ae49-4a168687ec73,asyndetic.town,available,6.98,47.48,low,low,9,namecheap,,,07/08/2026 10:34
 c3feb4f3-de49-479d-8674-0706c2bf51b0,attempted.town,available,6.98,47.48,low,low,9,namecheap,,,07/08/2026 15:12
-a8bd5056-9451-4eee-b0c7-bec2dc25ac4d,Remington.town,available,9.99,,high,low,9,name.com,,,
+a8bd5056-9451-4eee-b0c7-bec2dc25ac4d,remington.town,available,9.99,,high,low,9,name.com,,,
 6cb766b0-1b9e-4645-9245-a4a12f462784,clipthewingsof.town,available,9.99,,high,low,17,name.com,,,
 04864370-4a8d-48c7-9c4a-f2d647f2f933,awol.town,available,6.98,47.48,low,low,4,namecheap,,,08/08/2026 01:46
 6fa4bd3b-5063-48f9-beed-a2fdd8d81bd4,boxing.town,available,9.99,,high,low,6,name.com,,,
@@ -910,7 +905,7 @@ caa94dd5-f79a-48b8-9fdd-4d6022a50d99,lockkey.town,available,9.99,,high,low,8,nam
 300aba3a-afe9-46ab-ba82-5ade8437dcb3,affirm.town,available,,,high,low,6,,,,
 f2875ae4-f572-4456-928e-d3b67317dea9,goforgold.town,available,9.99,,high,low,11,name.com,,,
 f6460834-1ff7-4061-9ced-ff80cc975bf8,ivy.town,premium,118.8,118.8,high,low,3,namesilo,,,
-ae3844d3-68ed-4eae-928f-0e10aa7ac83f,Internetlike.town,available,9.99,,medium,low,12,name.com,,,
+ae3844d3-68ed-4eae-928f-0e10aa7ac83f,internetlike.town,available,9.99,,medium,low,12,name.com,,,
 94ff6c91-7ea1-49ee-8c4f-ece0b81aec5d,amazing.town,premium,118.8,118.8,high,low,7,namesilo,,,
 fe81bf48-ab22-427a-90b2-bdf9db8a73f2,grabby.town,available,6.98,47.48,low,low,6,namecheap,,,07/08/2026 21:58
 a1653d6f-fc7e-4e43-a0f2-2cede1e857eb,packed.town,available,9.99,,medium,low,6,name.com,,,
@@ -920,7 +915,7 @@ c454d2ce-46bc-4d72-bc10-fe86142ac9f9,players.town,available,9.99,,medium,low,7,n
 c22f01f7-1d07-439d-b8fb-0a8c13e8f8be,vigor.town,available,9.99,,high,low,5,name.com,,,
 5dfb152e-174c-45b6-ba97-6f46f991b13c,quatern.town,available,6.98,47.48,low,low,7,namecheap,,,
 1b078508-7b09-4e58-9ab5-e71b29e5deed,fascinate.town,available,9.99,,high,low,9,name.com,,,
-74b711a2-05ea-46ac-8dc8-dc8bda1bf61a,Frenchroll.town,available,9.99,,medium,low,11,name.com,,,
+74b711a2-05ea-46ac-8dc8-dc8bda1bf61a,frenchroll.town,available,9.99,,medium,low,11,name.com,,,
 3945a6db-226c-4497-9564-c117771119f4,airheaded.town,available,6.98,47.48,low,low,9,namecheap,,,
 a8386c95-dfa1-4746-a626-48dc399b13a1,newsmedia.town,available,9.99,,high,low,10,name.com,,,
 26e2e8f8-32af-4d39-a8fe-bd22f366103c,zone.town,premium,78.54,78.54,high,low,4,namesilo,,,
@@ -940,7 +935,6 @@ e293a9cb-77bc-46b2-a0a4-7533779cea58,assumed.town,available,6.98,47.48,low,low,7
 52b59423-5322-43d1-afbd-47143bd6d6c5,quickness.town,available,9.99,,high,low,9,name.com,,,
 cb804bd4-dddc-49c8-b263-38b96569626e,phoebe.town,available,6.98,47.48,low,low,6,namecheap,,,
 1d58cd03-1143-49e4-b46d-13725ac5c32d,lisbon.town,premium,242,242,high,low,6,namesilo,,,
-06405cb0-2329-43c2-99f4-a6a84d600b62,american.town,resell,,,high,high,8,"GoDaddy.com, LLC",28/07/2014 16:20,28/07/2026 16:20,
 8664821e-0f89-4f12-8a43-c6c360a41cc6,accretive.town,available,6.98,47.48,low,low,9,namecheap,,,
 5075bee5-2082-4267-aaa3-ad9efdb93604,allergic.town,available,9.99,48.99,high,low,8,name.com,,,
 633e4c79-32b3-40fd-b670-003cf01f97c2,haste.town,available,9.99,,medium,low,5,name.com,,,
@@ -960,12 +954,12 @@ ab27bb60-3e32-4727-b560-41aae3d67dd7,maximum.town,available,9.99,,high,low,7,nam
 5b9658c0-8359-4412-b0e1-3916d862821e,givein.town,available,9.99,,high,low,7,name.com,,,
 7b915abc-3fa6-45fa-8b66-4031e4e54b1b,neighbour.town,available,9.99,,high,low,9,name.com,,,
 4b1f89a5-005d-4228-ad05-f208f3021ef3,acrogenic.town,available,6.98,47.48,low,low,9,namecheap,,,
-529d55a3-8218-4c56-99f3-ad27670de492,goodGod.town,available,9.99,,high,low,8,name.com,,,
+529d55a3-8218-4c56-99f3-ad27670de492,goodgod.town,available,9.99,,high,low,8,name.com,,,
 dbced265-8127-4035-8d4b-e9a4a40d1b8f,aligned.town,available,6.98,47.48,low,low,7,namecheap,,,
 b41098ab-308e-46ed-b936-3b688b5f3c1a,photoartist.town,available,9.99,,high,low,12,name.com,,,
 00016c06-d8cf-4f0d-8251-673b94d22205,awe.town,premium,118.8,118.8,high,low,3,namesilo,,,
 ba42f5ab-95ff-48b3-b148-f7f49e2b2d53,aperient.town,available,6.98,47.48,low,low,8,namecheap,,,05/08/2026 22:09
-d8314c2d-d6b6-4d82-a1ee-6bc10eb71043,WorldWarII.town,available,9.99,,low,low,12,name.com,,,
+d8314c2d-d6b6-4d82-a1ee-6bc10eb71043,worldwarii.town,available,9.99,,low,low,12,name.com,,,
 23af43f1-26a4-41ac-b321-3ca016d11209,lottery.town,resell,,,high,low,7,Dynadot Inc,30/01/2026 17:00,30/01/2027 17:00,
 5dbc7f94-dc6c-4aa0-8ade-5d91f710e8ee,attended.town,available,9.99,,medium,low,8,name.com,,,
 49622bd7-9ac1-481b-abb8-625e2d5975de,gold.town,premium,260,260,high,medium,4,namecheap,,,
@@ -999,3 +993,9 @@ c147d9a8-d361-4b63-8ba4-fdf1ef28692e,beall.town,available,9.99,,medium,low,6,nam
 abb7467e-645c-4c09-b5c6-b637ab457749,esteem.town,available,9.99,,high,low,6,name.com,,,
 233e61df-121f-4d4c-ae66-4789225c2f1d,getto.town,available,9.99,,high,low,6,name.com,,,
 1cb60121-9b22-4f57-a0ba-398458cfd18a,most.town,available,9.99,,high,low,4,name.com,,,
+7dcb4158-fab5-4de4-8a96-defc397cf142,adenoid.town,available,6.98,47.48,low,low,7,namecheap,,,
+073419c7-b853-4df5-aa1d-a481a56b2a37,nail.town,available,9.99,48.99,medium,low,4,name.com,,,
+cf03cd56-f254-4cac-b455-a94df4eb15ce,azonal.town,available,6.98,47.48,low,low,6,namecheap,,,08/08/2026 02:27
+b35f10ca-cdd8-4b49-9879-d369aefd6509,detected.town,available,9.99,48.99,medium,low,8,name.com,,,
+52724b2c-5f63-42f0-b752-f5d4b5756236,agnostical.town,available,6.98,47.48,low,low,10,namecheap,,,
+47c26da6-5899-4a7d-b455-a318ec1c129f,state.town,available,,,high,low,5,,,,
