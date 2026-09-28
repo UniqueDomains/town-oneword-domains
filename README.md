@@ -1,10 +1,10 @@
-# Available .TOWN One-Word Domains (22,091)
+# Available .TOWN One-Word Domains (22,646)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C091%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .town one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,091 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,091 domains · **Median ask:** $14.29 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,646 domains · **Median ask:** $14.38 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/town`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
 | acc.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
-| best.town | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| data.town | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
 | aim.town  | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
 | afl.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
-| data.town | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| luck.town | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC |
 | buy.town  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo     |
 | aga.town  | available | $6.98     | $47.48        | high           | low    | 3      | namecheap    |
-| luck.town | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC |
+| park.town | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
 | cop.town  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
 | ana.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
-| park.town | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
-| fad.town  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap    |
-| bjs.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
 | shop.town | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
+| fad.town  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap    |
+| bjs.town  | available | $8.99     | $36.49        | medium         | low    | 3      | namesilo     |
 | hug.town  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | btu.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
 | ivy.town  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| ely.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
+| cbc.town  | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare   |
 | jot.town  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| fda.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
+| ely.town  | available | $8.99     | $36.49        | high           | low    | 3      | namesilo     |
+| leo.town  | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,091 live domains                        |
+| 1,000-row public sample | 22,646 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOWN One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
